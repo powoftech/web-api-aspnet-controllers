@@ -1,2 +1,4 @@
 # mit-license-templates
-Git repository template with MIT License and Visual Studio .gitignore.
+Experiment on creating RESTful service with ASP.NET Core controllers that support create, read, update, delete (CRUD) operations.
+
+https://learn.microsoft.com/en-us/training/modules/build-web-api-aspnet-core/
